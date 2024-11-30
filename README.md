@@ -18,7 +18,7 @@
 ## 📜 How It Works
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/lovenotes-daily.git
+    git clone https://github.com/Mahesh00234h/LoveNotes-Daily.git
     cd lovenotes-daily
     ```
 2. Install the required dependencies:
