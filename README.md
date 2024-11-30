@@ -28,7 +28,7 @@
 3. Configure your API key and sender/recipient details in the script.
 4. Run the script:
     ```bash
-    python love_notes.py
+    python sammuu.py
     ```
 5. Sit back and let the love flow!
 
